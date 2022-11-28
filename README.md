@@ -9,6 +9,8 @@ despreparadas, quais não foram e quais arquivos não estão sendo monitorados p
 **git commit -m** "mensagem do commit" salva as alterações <br/> 
 **git log**  mostra os commits que eu tenho <br/> 
 **git log --oneline** simplifica, pega apenas  os 07 digítos do hash total bc4836c (Head-master) é pelo Head master que conseguimos rastrear<br/> 
+**git remote add origin** https://github.com/Carlos-Moraes2/aulas-git.git
+**git push -u origin master** empurra a branch local para a branch remota
 
 
 **Primeiro commit**
