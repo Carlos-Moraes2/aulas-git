@@ -1,5 +1,8 @@
 # Aulas-git
 Este é um repositório para minhas aulas **git**
+
+![Imagem git e github](https://user-images.githubusercontent.com/113129034/211225601-fa7197ce-9eab-4ed9-8ed1-50b3cd69f79d.png)
+
 # Comandos Básicos do Git 
 **Git clone;** Clona um repositório local<br/>
 **Git status;** Permite ver quais alterações foram 
